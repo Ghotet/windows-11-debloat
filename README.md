@@ -1,4 +1,4 @@
-# ghost-debloat
+# windows-11-debloat
 
 A modular, AI-augmented Windows 11 debloater script designed to strip bloat, disable surveillance, and optimize system performance for AI development, creative work, or raw speed.
 
