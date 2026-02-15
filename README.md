@@ -54,5 +54,4 @@ Use with awareness. Some tweaks are aggressive by default.
 
 ## Author
 
-**Jay Nicholson** (Dev handle: `Ghotet`)  
-*AI-augmented systems optimizer | github.com/Ghotet*
+**Jay Nicholson** (Dev handle: `Ghotet`)
